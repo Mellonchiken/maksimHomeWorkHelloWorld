@@ -1,6 +1,8 @@
 package sk.com.ymca;
 /*
-Написати Hello World nта запустити його на виконання;
+I'm here
+
+Написати Hello World та запустити його на виконання;
 - Написати з нового рядка: “Hello everybody”
 
 Повинно вийти:
